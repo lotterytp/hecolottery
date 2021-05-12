@@ -1,36 +1,31 @@
-## Welcome to GitHub Pages
+## 欢迎来到彩票币博客
+这里就是彩票币玩家的论坛！
 
-You can use the [editor on GitHub](https://github.com/lotterytp/hecolottery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 项目简介
+**LRTY（LOTTERY）**：彩票币：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 彩票游戏规则
+彩票币预期采用特殊的随机算法，每8小时往随机选中的0.5%(向上取整)的持币地址上发送彩票空投。俗称:中彩票！！首发火币链，5.30日对持币数量大于50000的地址进行空投，空投总量30亿。
 
-### Markdown
+彩票币完整规则**V1.0**如下:
+彩票币总量1万亿。
+当然市场流通300亿。
+预期通过空投的方式(拒绝私募)使市场流动性达到500亿，这200亿通过空投的形式发送，每个地址100万。(既总共投放两万个地址左右)。余下的彩票币完全通过彩票算法随机发放，发完游戏结束，届时应该也已经在市场完全分散！交由玩家控制！彩票币奖池地址是公开的，届时可由社区进行控制，社区如果依然决定继续彩票币玩法，可往该池投入彩票，彩票算法将继续运行。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+算法启动逻辑高度：
+预期地址数在1000个时，进行6次彩票算法空投。地址数达到2000时，算法正式启动！
+彩票奖励金额: 按照1-100%的系数，投放幸运地址持币数量的彩票币奖励！也就是说锦鲤玩家有概率直接翻倍！
 
-```markdown
-Syntax highlighted code block
+### 彩票币的作用
+1.就像名字一样，这是一张彩票通证，标识你有权限参与游戏
+2.社区投票权
+3.社区运营权
+4.彩票规则更新建议权
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+合约地址：
+0xab66a8ccb6a13b90779aa7d78eec058eb811c267
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lotterytp/hecolottery/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
