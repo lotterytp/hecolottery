@@ -23,10 +23,11 @@
 4.彩票规则更新建议权
 
 
-合约地址：
+## LTRY合约地址
 0xab66a8ccb6a13b90779aa7d78eec058eb811c267
 
+## 彩票奖池地址
+0xFa1Af9E78Fc2327206F6C3C6E3e3C7DF1DdE0389
 
-### Support or Contact
+### Thanks for you reading. Have fun!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
